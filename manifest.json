@@ -1,0 +1,24 @@
+{
+  "name": "船长",
+  "short_name": "船长",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "船长",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./image/14.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    },
+    {
+      "platform": "play"
+    }
+  ]
+}
